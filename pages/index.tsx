@@ -991,17 +991,6 @@ const Home = () => {
               © {new Date().getFullYear()} FireAnt Education. Đã đăng ký bản
               quyền.
             </p>
-            <div className="flex space-x-6">
-              <a href="#" className="text-gray-500 hover:text-gray-300 text-sm">
-                Điều khoản
-              </a>
-              <a href="#" className="text-gray-500 hover:text-gray-300 text-sm">
-                Bảo mật
-              </a>
-              <a href="#" className="text-gray-500 hover:text-gray-300 text-sm">
-                Cookies
-              </a>
-            </div>
           </div>
         </div>
       </footer>
