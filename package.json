@@ -23,7 +23,6 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@types/clsx": "^2.1.0",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
   },
