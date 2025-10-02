@@ -879,7 +879,7 @@ const Home = () => {
                   <Facebook className="h-5 w-5 text-gray-400 hover:text-blue-400 transition-colors" />
                 </a>
                 <a
-                  href="https://www.youtube.com/c/FireAntTV"
+                  href="https://www.youtube.com/@FireAntMedia"
                   target="_blank"
                   rel="noopener noreferrer">
                   <Youtube className="h-5 w-5 text-gray-400 hover:text-red-500 transition-colors" />
