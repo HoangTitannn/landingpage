@@ -15,7 +15,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "embla-carousel-react": "^8.0.0",
-    "lucide-react": "^0.263.1",
+    "lucide-react": "^0.468.0",
     "tailwind-merge": "^2.2.1"
   },
   "devDependencies": {
@@ -26,5 +26,9 @@
     "@types/clsx": "^2.1.0",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+  },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
   }
 }
